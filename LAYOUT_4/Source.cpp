@@ -3,6 +3,7 @@
 #include<math.h>
 #include<ctime>
 #include<cstring>
+#include<fstream>
 
 using namespace std;
 
