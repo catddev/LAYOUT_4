@@ -7,7 +7,6 @@
 #include<cstring>
 #include<fstream>
 
-
 using namespace std;
 
 void createArray(int *&a, int n) {
