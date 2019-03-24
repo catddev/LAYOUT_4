@@ -1,9 +1,12 @@
-﻿#include <iostream>
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
 #include <iomanip>
 #include<math.h>
+#include<Windows.h>
 #include<ctime>
 #include<cstring>
 #include<fstream>
+
 
 using namespace std;
 
